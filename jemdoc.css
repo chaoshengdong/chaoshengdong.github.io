@@ -365,3 +365,9 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+a.news-more-toggle {
+    display: inline-block;
+    margin: -0.4em 0 0.8em 0;
+    cursor: pointer;
+}
