@@ -1,6 +1,6 @@
 (function () {
   function collapseRecentNews() {
-    var LIMIT = 20;
+    var LIMIT = 10;
     var headings = document.getElementsByTagName('h2');
     var newsHeading = null;
     for (var i = 0; i < headings.length; i++) {
